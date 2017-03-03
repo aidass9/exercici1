@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Versio 2";
+            echo "Versio 3";
         ?>
     </body>
 </html>
